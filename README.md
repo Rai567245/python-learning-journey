@@ -46,6 +46,6 @@
 - Version Control: Git & GitHub
 
 👤 AUTHOR
-- Ivanrenz Magalong
+- Vanrey Magalong
 - BSIT Student | Aspiring Software & Web Developer & UI/UX Designer & Network Engineer
 - “Learning Python step by step, turning practice into progress.”
