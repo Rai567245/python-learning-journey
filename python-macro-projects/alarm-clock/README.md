@@ -22,6 +22,7 @@ An interactive desktop application built with Python. This tool functions as bot
 You will need the pygame library to handle the audio playback:
 2. Make sure you are using **Python 3.10 – 3.12** (pygame is not compatible with newer versions yet).
 3. Install the required dependency:
+   
    ```bash
    pip install pygame
 
@@ -50,4 +51,5 @@ def alarm():
 ## 👤 Author
 
 RaiTech Building tools that keep you on schedule.
+
 
