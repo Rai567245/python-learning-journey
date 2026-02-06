@@ -28,7 +28,7 @@ You will need the pygame library to handle the audio playback:
 
 ## 📖 How to Use
 
-- iew Time: The main interface displays the current time and a contextual greeting.
+- View Time: The main interface displays the current time and a contextual greeting.
 - Set Alarm: Use the dropdown menus (OptionMenu) to select your desired wake-up time.
 - Activate: Click "Set Alarm". The app will start a background thread to monitor the time.
 - Silence: When the alarm triggers, click the "Stop Alarm" button to end the audio.
@@ -51,5 +51,6 @@ def alarm():
 ## 👤 Author
 
 RaiTech Building tools that keep you on schedule.
+
 
 
